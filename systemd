@@ -1,0 +1,4 @@
+1.列出
+	systemctl list-units
+1.重启服务
+	systemctl restart network.service
