@@ -1,0 +1,5 @@
+系统架构						arch
+读取软件链接对应的目录			readlink	realpath
+产生数							seq
+统计行号字数字节数				wc
+系统信息						uname
