@@ -1,0 +1,6 @@
+1.use script to generate log file
+	log_demo.sh
+2.use logrotate script to rotate log
+	log_demo_rotate
+3.test logrotate configration manually
+	sudo logrotate -vf /etc/logrotate.d/log_demo_rotate

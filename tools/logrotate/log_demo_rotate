@@ -1,0 +1,9 @@
+/var/log/log_demo/*.log {
+	daily
+	rotate 7
+	minsize 5k
+	compress
+	delaycompress
+	missingok
+	notifempty
+}
